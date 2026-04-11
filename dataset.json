@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant market intelligence for the Kiryas Joel-Poughkeepsie-Newburgh (Metro), New York metro, including Kiryas Joel, Poughkeepsie, and Newburgh. Covers a mid-size metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Kiryas Joel-Poughkeepsie-Newburgh (Metro), New York, US",
+  "export_job_id": "bf26b160-c1d4-4f53-9c3c-a53ef484c6af",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 380563,
+  "location_name": "Kiryas Joel-Poughkeepsie-Newburgh, NY",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-kiryas-joel-poughkeepsie-newburgh-metro-new-york-us-sample-380563",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/380563/beamstation_380563_restaurants-us-kiryasjoelpoughkeepsienewburghny_SAMPLE_DIST.csv",
+  "sample_pct": 9.94,
+  "sample_records": 133,
+  "sample_sha256": "14d6b216527f50f19469025210276c2015d0ad972a74363fe2494e3897e6f50a",
+  "sample_size_bytes": 460442,
+  "total_records": 1338,
+  "updated_at": "2026-04-07T12:06:42.215369+00:00"
+}

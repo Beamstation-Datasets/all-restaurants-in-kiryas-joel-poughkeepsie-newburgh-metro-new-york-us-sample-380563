@@ -9,9 +9,9 @@
 | Dataset ID | `380563` |
 | Location | Kiryas Joel-Poughkeepsie-Newburgh, NY |
 | Category | Restaurants |
-| Full dataset size | 1,338 records |
-| Free sample size | 133 records (9.94%) |
-| Last export | 2026-04-07T12:06:42.215369+00:00 |
+| Full dataset size | 1,335 records |
+| Free sample size | 133 records (9.96%) |
+| Last export | 2026-04-14T12:00:13.079783+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kiryas-joel-poughkeepsie-newburgh-metro-new-york-us-sample-380563/releases/download/sample-latest/beamstation_380563_restaurants-us-kiryasjoelpoughkeepsienewburghny_SAMPLE_DIST.csv) |
 
 ## What is in this sample

@@ -1,6 +1,6 @@
 # All Restaurants in Kiryas Joel-Poughkeepsie-Newburgh (Metro), New York, US
 
-> Free BeamStation sample export with 133 rows and masked direct-contact fields.
+> Free BeamStation sample export with 116 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `380563` |
 | Location | Kiryas Joel-Poughkeepsie-Newburgh, NY |
 | Category | Restaurants |
-| Full dataset size | 1,335 records |
-| Free sample size | 133 records (9.96%) |
-| Last export | 2026-04-14T12:00:13.079783+00:00 |
+| Full dataset size | 1,167 records |
+| Free sample size | 116 records (9.94%) |
+| Last export | 2026-04-21T12:39:50.642275+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kiryas-joel-poughkeepsie-newburgh-metro-new-york-us-sample-380563/releases/download/sample-latest/beamstation_380563_restaurants-us-kiryasjoelpoughkeepsienewburghny_SAMPLE_DIST.csv) |
 
 ## What is in this sample

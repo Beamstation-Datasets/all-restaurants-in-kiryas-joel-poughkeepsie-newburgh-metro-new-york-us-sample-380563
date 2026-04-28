@@ -1,12 +1,12 @@
 {
-  "export_job_id": "11f74c3a-5b42-4909-99d5-12a64fff2e12",
+  "export_job_id": "ca07bf0a-1768-403b-b5f5-ee803b17b41d",
   "id_short": 380563,
-  "published_at": "2026-04-21T19:21:25Z",
+  "published_at": "2026-04-28T19:16:50Z",
   "repo_name": "all-restaurants-in-kiryas-joel-poughkeepsie-newburgh-metro-new-york-us-sample-380563",
   "sample_asset_name": "beamstation_380563_restaurants-us-kiryasjoelpoughkeepsienewburghny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/380563/beamstation_380563_restaurants-us-kiryasjoelpoughkeepsienewburghny_SAMPLE_DIST.csv",
-  "sample_records": 116,
-  "sample_sha256": "7f05401a95ccba5758e213d2e4192eac399aa7e47b032ef1c70b110b4eced502",
-  "sample_size_bytes": 403292,
-  "total_records": 1167
+  "sample_records": 130,
+  "sample_sha256": "1790e602a63599abd3b3f32500a2ecd601cc0f145b5e305f5f7a2241ad044107",
+  "sample_size_bytes": 409485,
+  "total_records": 1304
 }
